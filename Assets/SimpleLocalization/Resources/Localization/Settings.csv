@@ -1,0 +1,17 @@
+Key,English,Tamil,Hindi
+Set.Language,Language,மொழி,भाषा
+Set.VideoRes,Video Resolution,வீடியோ தீர்மானம்,वीडियो संकल्प
+Set.Display,Display Type,காட்சி வகை,डिस्प्ले प्रकार
+Set.Bright,Brightness,பிரகாசம்,चमक
+Set.Render,Render Distance,ரெண்டர் தூரம்,दूरी बनाएं
+Set.VSync,Vertical Sync,செங்குத்தான ஒத்திசை,ऊर्ध्वाधर सिंक
+Set.Title,Settings,அமைப்புகள்,समायोजन
+Set.Master,Master Volume,முதன்மை ஒலி,मूल संस्करण
+Set.Music,Music Volume,இசை ஒலி,संगीत की आवाज़
+Set.SFX,SFX Volume,மற்ற ஒலி,एसएफएक्स वॉल्यूम
+Set.MainMenu,MainMenu,முதன்மை பட்டியல்,मुख्य मेन्यू
+Set.Save,Save,சேமிக்க,सहेजें
+Set.Video,Video,காணொளி,वीडियो
+Set.Game,Game,விளையாட்டு,खेल
+Set.Interface,Interface,இடைமுகம்,इंटरफेस
+Set.Audio,Audio,ஆடியோ,ऑडियो
