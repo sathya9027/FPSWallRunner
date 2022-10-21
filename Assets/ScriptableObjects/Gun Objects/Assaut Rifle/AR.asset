@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd4a7660f734afb4891620ff6cb31672, type: 3}
+  m_Name: AR
+  m_EditorClassIdentifier: 
+  name: Assault Rifle
+  damage: 22
+  maxDistance: 200
+  currentAmmo: 0
+  magSize: 31
+  fireRate: 600
+  reloadTime: 1.5
+  fireSFX: {fileID: 8300000, guid: 03720f8916302ad4eb9b470b48c00668, type: 3}
+  reloadSFX: {fileID: 8300000, guid: a74079c95fe134c48889df5bfdc9670d, type: 3}
+  reloading: 0
+  isAutomatic: 1
